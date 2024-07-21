@@ -20,3 +20,8 @@
 
 ![React Life Cycle Method](https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/ogimage.png)
 
+
+### Credits : 
+
+- [@ashrayaa-repo](https://github.com/Ashrayaa/Namaste-React)
+
